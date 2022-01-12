@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA14_PrimeNo2DArray\bin\Debug\LA14_PrimeNo2DArray.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA14_PrimeNo2DArray\bin\Debug\LA14_PrimeNo2DArray.exe
+D:\All files\Bow Valley\SODV9104\HW\LA14_PrimeNo2DArray\bin\Debug\LA14_PrimeNo2DArray.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA14_PrimeNo2DArray\obj\Debug\LA14_PrimeNo2DArray.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA14_PrimeNo2DArray\obj\Debug\LA14_PrimeNo2DArray.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA14_PrimeNo2DArray\obj\Debug\LA14_PrimeNo2DArray.exe
+D:\All files\Bow Valley\SODV9104\HW\LA14_PrimeNo2DArray\obj\Debug\LA14_PrimeNo2DArray.pdb
